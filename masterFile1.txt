@@ -1,3 +1,4 @@
 print 'Hello World'
 print 'Welcome to Banglore Shahar'
 print 'Place is okay not great!'
+print 'I stayed @ hostel'
